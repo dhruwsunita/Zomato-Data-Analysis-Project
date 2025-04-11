@@ -3,7 +3,13 @@
 Zomato has an average of 17.5 million monthly transacting customers for its food delivery business. The average monthly active food delivery restaurant partners on Zomato's platform have also increased by 8.7% year-on-year, from 208,000 to 226,000. You are working in a data-driven role at Zomato. You have a dataset of customers. As a data professional, you need to analyze the data, perform EDA (Exploratory Data Analysis) and visualization, and answer some questions.
 
 # Dataset Used:
-[Zomato Data](https://github.com/dhruwsunita/Zomato-Data-Analysis-Project/blob/main/Zomato%20data%20.csv)
+Dataset : [Zomato Data](https://github.com/dhruwsunita/Zomato-Data-Analysis-Project/blob/main/Zomato%20data%20.csv)
+
+![data](https://github.com/user-attachments/assets/1459ef5c-f344-478c-9009-5f9639056013)
+
+![Pic2](https://github.com/user-attachments/assets/cbb927ab-809a-4b67-a399-4cccefd7d381)
+![Pic3](https://github.com/user-attachments/assets/f251bcb5-6b38-4ef6-a079-0eb11ec4162b)
+![Pic1](https://github.com/user-attachments/assets/065bf09b-5b46-4ff2-a19d-b2da6cbd39c5)
 
 # Technologies & Libraries:
 - Python
@@ -14,7 +20,7 @@ Zomato has an average of 17.5 million monthly transacting customers for its food
 # Key Steps:
 - Data cleaning and handling missing values
 - Converting categorical data into useful formats
-- Exploratory Data Analysis (EDA) on:
+- Exploratory Data Analysis (EDA)
 - Most popular cuisines and locations
 - Restaurants with highest ratings
 - Relationship between cost and ratings
