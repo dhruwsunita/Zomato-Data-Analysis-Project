@@ -43,7 +43,6 @@ Dataset : [Zomato Data](https://github.com/dhruwsunita/Zomato-Data-Analysis-Proj
 
 # ✅ Final Conclusion:
 From this analysis, several key insights were uncovered:
-- Quick Bites and Casual Dining are the most preferred restaurant types among customers.
 - Online mode of ordering tends to receive higher ratings than offline.
 - Cafés and Dessert Parlors have a high volume of offline orders, suggesting these could be targeted for local offers or in-store promotions.
 - Most couples prefer ordering online, and their average spending per order is relatively higher compared to the general user base.
